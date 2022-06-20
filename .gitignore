@@ -1,0 +1,8 @@
+/node_modules
+/daily
+/css
+/assets
+index.html
+package.json
+package-lock.json
+script.js
